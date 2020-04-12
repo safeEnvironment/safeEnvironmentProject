@@ -1,1 +1,3 @@
 # safeEnvironmentProject
+# Project overview
+-- This project will be a web application where people can use it like a blog, website or a social site to create awareness among the country people and make the environment safe. The user can register and find their own profile to create post about his area’s trash details like, name, area, type of pollution, image etc. After seeing the post, the company who are willing to collect the trash and if want to recycle it can communicate with the research panel. And that’s how the activities will going on and after a successful work the area status will be checked as okay.
